@@ -1,8 +1,6 @@
 # 🎯 Нефункциональные требования | Проект BSA
 
-Student: @https://edu.21-school.ru/profile/lunchlpr
-Location: SKD SAMARKAND  
-GitHub: https://github.com/wh0mever
+
 ![Levi Ackerman](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FHGPFeIo8looAAAAC%2Flevi-ackerman.gif&f=1&nofb=1&ipt=740d7fa033496bb69c29f0fdb0f6d2c01c9e8f9d2d092c25b0c1a31079cb9c3f)
 
 ## 🚀 О проекте
@@ -118,3 +116,6 @@ SLA: Круглосуточная работа, 300 активных курье�
 ---
 
 **🎉 Начни изучение прямо сейчас: [Exercise 00 - Определение НФТ](exercise_00.md)** 
+**Student**: @https://edu.21-school.ru/profile/lunchlpr
+**Location**: SKD SAMARKAND  
+**GitHub**: https://github.com/wh0mever
